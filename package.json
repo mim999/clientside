@@ -1,0 +1,20 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "author": "michael delbeke",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "materialize-css": "^1.0.0-beta",
+    "vue": "^2.5.16",
+    "vue-material": "^1.0.0-beta-7",
+    "vue-router": "^3.0.1"
+  },
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-notify": "^3.2.0",
+    "gulp-rename": "^1.2.2"
+  }
+}
